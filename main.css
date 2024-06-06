@@ -1,0 +1,22 @@
+#left{
+    border: 1px solid black;
+}
+#right {
+    border: 1px dashed green;
+}
+
+.sides{
+    display: inline-block;
+    width: 300px;
+    background-color: antiquewhite;
+}
+#leftP{
+    color:blue
+}
+
+#rightP {
+    color: aquamarine;
+    font-weight: 900; 
+    font-size: x-large;  
+    background-color: indigo;;
+}
