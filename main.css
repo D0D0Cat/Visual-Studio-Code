@@ -20,3 +20,16 @@
     font-size: x-large;  
     background-color: indigo;;
 }
+
+.sides2 {
+    display: inline-block;
+    width: 50%;
+}
+
+#bFont {
+    font-weight: 900;
+}
+#italicFont {
+    font-style: italic;
+}
+
